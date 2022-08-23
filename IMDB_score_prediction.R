@@ -1,5 +1,3 @@
-# Please do read both the script and the csv file from the same location
-# Please use the "Source with echo" function to see the running of all the lines in the console
 ######################################################################################################
 ##                        Movie Rating Range Prediction Using Machine Learning Algorithms
 ######################################################################################################
